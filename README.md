@@ -1,5 +1,5 @@
 # TensorFlow program via XML
-Script to extract certain fields from a text resume
+Script to run a Tensorflow program by specifications in XML file
 Copyright (C) 2017 Yogesh H Kulkarni
 
 ## License:
